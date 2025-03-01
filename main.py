@@ -51,7 +51,7 @@ time.sleep(10)
 
 while True:
 
-    idRandom = "626866146"
+    idRandom = "yourROBLOXID"
     print("Following user with ID:", idRandom)
 
     browser.get(f"https://roblox.com/users/{idRandom}")
